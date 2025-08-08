@@ -29,10 +29,11 @@ while run:
         if event.type == pygame.QUIT:
             run = False
 
-
+# just for test
     pygame.display.update()
 
 
 pygame.quit()
+
 
 
